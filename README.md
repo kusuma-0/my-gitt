@@ -1,2 +1,1 @@
-# my-gitt
-hello
+# my-git
